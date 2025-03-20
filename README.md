@@ -118,11 +118,11 @@ This project aims to analyze the effectiveness of various drugs on cancer cells 
 
 🚀 Setup & Execution Guide
 
-1. *Clone the Repository*
-2. *Install Dependencies*
-3. *Load Data into SQL Database*
-4. *Run Data Cleaning Scripts in Python*
-5. *Connect SQL Database to Tableau & Build Dashboards*
+1. *Clone the Repository*[git clone https://github.com/ https://github.com/AmiraKhater/DataStorm/edit/main/README.md/project.git]
+3. *Install Dependencies*
+4. *Load Data into SQL Database*
+5. *Run Data Cleaning Scripts in Python*
+6. *Connect SQL Database to Tableau & Build Dashboards*
 
 ---
 

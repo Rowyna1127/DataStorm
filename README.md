@@ -117,8 +117,7 @@ This project aims to analyze the effectiveness of various drugs on cancer cells 
 ---
 
 🚀 Setup & Execution Guide
-
-1. *Clone the Repository*[git clone https://github.com/ https://github.com/AmiraKhater/DataStorm/edit/main/README.md/project.git]
+1.  *Clone the Repository* [https://github.com/AmiraKhater/DataStorm.git]
 3. *Install Dependencies*
 4. *Load Data into SQL Database*
 5. *Run Data Cleaning Scripts in Python*

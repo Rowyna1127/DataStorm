@@ -1,6 +1,6 @@
  📊 Drug Effectiveness Analysis on Cancer Cells
 
- 🔍 Executive Summary
+🔍 Executive Summary
 
 This project aims to analyze the effectiveness of various drugs on cancer cells using the **LINCS dataset**. By leveraging Python for data cleaning, SQL for structured storage, and Tableau for visualization, the project will uncover insights into drug performance and potential correlations between treatments and cell response.
 
@@ -37,10 +37,10 @@ This project aims to analyze the effectiveness of various drugs on cancer cells 
 - **Source**: [LINCS Dataset](https://lincs.hms.harvard.edu/tang-jbiomolscreen-2013/)
 - **Volume**: Large-scale dataset containing drug response metrics.
 - **Primary Attributes**:
-- *Drug Name & Type*: Classification and chemical properties.
-- *Cell Line Data*: Cancer cell characteristics.
-- *Response Metrics*: Cell viability, effectiveness scores.
-- *Time Series Data*: Response at different time points.
+  - *Drug Name & Type*: Classification and chemical properties.
+  - *Cell Line Data*: Cancer cell characteristics.
+  - *Response Metrics*: Cell viability, effectiveness scores.
+  - *Time Series Data*: Response at different time points.
 
 ---
 
@@ -76,7 +76,8 @@ This project aims to analyze the effectiveness of various drugs on cancer cells 
 - Implement filters for interactive exploration.
 
 ---
- 📊 Key Performance Indicators (KPIs)
+
+📊 Key Performance Indicators (KPIs)
 
 - *Drug Effectiveness Score*: Comparison across different cell lines.
 - *Data Completeness*: Ensuring cleaned data meets quality standards.
@@ -86,68 +87,3 @@ This project aims to analyze the effectiveness of various drugs on cancer cells 
 ---
 
 📅 Project Timeline & Milestones
-
-| Phase     | Key Activities                                     | Duration |
-|-----------|---------------------------------------------------|----------|
-| *Phase 1* | Data Exploration & Cleaning                      | 1 Week   |
-| *Phase 2* | Database Setup & SQL Integration                 | 1 Week   |
-| *Phase 3* | Initial Tableau Dashboard Development            | 1 Week   |
-| *Phase 4* | Final Dashboard Implementation & Report Generation | 1 Week   |
-
----
-
-🚀 Deliverables
-
-- *Cleaned and structured dataset.*
-- *SQL database with optimized queries.*
-- *Interactive Tableau dashboard.*
-- *Final report summarizing findings and insights.*
-
----
-
-👥 Roles & Responsibilities
-
-| Role                       | Responsibilities                   |
-|----------------------------|----------------------------------|
-| *Data Analyst*             | Cleans and prepares the dataset. |
-| *Database Engineer*        | Manages SQL database and queries. |
-| *Visualization Specialist* | Designs Tableau dashboards.      |
-| *Project Manager*          | project report,presentation. |
-
----
-
-🚀 Setup & Execution Guide
-1.  *Clone the Repository* [https://github.com/AmiraKhater/DataStorm.git]
-3. *Install Dependencies*
-4. *Load Data into SQL Database*
-5. *Run Data Cleaning Scripts in Python*
-6. *Connect SQL Database to Tableau & Build Dashboards*
-
----
-
-🔮 Future Enhancements
-
-- *Integrate Machine Learning for Predictive Analysis.*
-- *Expand Dataset with Additional Drug Trials.*
-- *Automate Data Pipeline for Continuous Updates.*
-
----
-
-📩 Contact Information
-
-📧 Email: [amira.yousef.khater@gmail.com](mailto:amira.yousef.khater@gmail.com)  
-🔗 LinkedIn: [Amira Khater](https://www.linkedin.com/in/amira-khater/)
-
----
-
-⭐ Contributions & Support
-
-If you find this project valuable, give it a ⭐ and contribute via pull requests!
-
----
-
-© Copyright & Licensing
-
-*© 2025 Amira Khater. All Rights Reserved.*  
-This project and its contents are licensed under the *[License Type]*. You may use, distribute, and modify this project under the terms specified in the license. For further details, refer to the LICENSE file included in this repository.
-

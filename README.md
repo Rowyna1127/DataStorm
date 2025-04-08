@@ -87,3 +87,69 @@ This project aims to analyze the effectiveness of various drugs on cancer cells 
 ---
 
 📅 Project Timeline & Milestones
+
+| Phase     | Key Activities                                     | Duration |
+|-----------|---------------------------------------------------|----------|
+| *Phase 1* | Data Exploration & Cleaning                      | 1 Week   |
+| *Phase 2* | Database Setup & SQL Integration                 | 1 Week   |
+| *Phase 3* | Initial Tableau Dashboard Development            | 1 Week   |
+| *Phase 4* | Final Dashboard Implementation & Report Generation | 1 Week   |
+
+---
+
+🚀 Deliverables
+
+- *Cleaned and structured dataset.*
+- *SQL database with optimized queries.*
+- *Interactive Tableau dashboard.*
+- *Final report summarizing findings and insights.*
+
+---
+
+👥 Roles & Responsibilities
+
+| Name                      | Role                        | Responsibilities                                                                                       |
+|---------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------|
+| *Amira Yousef Khater*      | Team Leader & GitHub Manager | Manages GitHub repository, coordinates team activities, handles Tableau visualizations, team synchronization. |
+| *Rowyna Tarek Azzam*       | Statistical Analysis Expert | Assists in adding statistical analysis with Python.                                                     |
+| *Samia Yousef Khater*      | Data Cleaning Specialist     | Responsible for cleaning advanced data using Python.                                                   |
+| *Youssef Mohamed Aly*      | Database Management Lead    | Responsible for SQL database management, linking data, preparing PowerPoint presentations.             |
+
+---
+
+🚀 Setup & Execution Guide
+1.  *Clone the Repository* [https://github.com/AmiraKhater/DataStorm.git]
+2. *Install Dependencies*
+3. *Load Data into SQL Database*
+4. *Run Data Cleaning Scripts in Python*
+5. *Connect SQL Database to Tableau & Build Dashboards*
+
+---
+
+🔮 Future Enhancements
+
+- *Integrate Machine Learning for Predictive Analysis.*
+- *Expand Dataset with Additional Drug Trials.*
+- *Automate Data Pipeline for Continuous Updates.*
+
+---
+
+📩 Contact Information
+
+- 📧 **Youssef Mohamed Aly**: [youssif1w2mohamed@gmail.com](mailto:youssif1w2mohamed@gmail.com) | [LinkedIn](https://www.linkedin.com/in/youssef-mohamed-aly)
+- 📧 **Samia Yousef Khater**: [SamiaYousefKhater@gmail.com](mailto:SamiaYousefKhater@gmail.com) | [LinkedIn](https://www.linkedin.com/in/samia-yousef-khater)
+- 📧 **Rowyna Tarek Azzam**: [rowynatarek@gmail.com](mailto:rowynatarek@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rowyna-t-azzam)
+- 📧 **Amira Yousef Khater**: [amira.yousef.khater@gmail.com](mailto:amira.yousef.khater@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amira-khater)
+
+---
+
+⭐ Contributions & Support
+
+If you find this project valuable, give it a ⭐ and contribute via pull requests!
+
+---
+
+© Copyright & Licensing
+
+*© 2025 Amira Khater. All Rights Reserved.*  
+This project and its contents are licensed under the *[License Type]*. You may use, distribute, and modify this project under the terms specified in the license. For further details, refer to the LICENSE file included in this repository.

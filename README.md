@@ -111,8 +111,8 @@ This project aims to analyze the effectiveness of various drugs on cancer cells 
 | Name                      | Role                        | Responsibilities                                                                                       |
 |---------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------|
 | *Amira Yousef Khater*      | Team Leader & GitHub Manager | Manages GitHub repository, coordinates team activities, handles Tableau visualizations, team synchronization. |
-| *Rowyna Tarek Azzam*       | Statistical Analysis Expert | Assists in adding statistical analysis with Python.                                                     |
-| *Samia Yousef Khater*      | Data Cleaning Specialist     | Responsible for cleaning advanced data using Python.                                                   |
+| *Rowyna Tarek Azzam*       | Statistical Analysis Expert |  Responsible for adding statistical analysis with Python.                                                     |
+| *Samia Yousef Khater*      | Data Cleaning Specialist     |  Responsible for advanced data cleaning using Python .                                                   |
 | *Youssef Mohamed Aly*      | Database Management Lead    | Responsible for SQL database management, linking data, preparing PowerPoint presentations.             |
 
 ---

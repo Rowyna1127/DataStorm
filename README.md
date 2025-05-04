@@ -2,7 +2,9 @@
 
 🔍 Executive Summary
 
-This project aims to analyze the effectiveness of various drugs on cancer cells using the **LINCS dataset**. By leveraging Python for data cleaning, SQL for structured storage, and Tableau for visualization, the project will uncover insights into drug performance and potential correlations between treatments and cell response.
+This project aims to analyze the effectiveness of various drugs on cancer cells using the **LINCS dataset**. By leveraging Python for data cleaning, SQL for structured storage, and  Power Bi for visualization, the project will uncover insights into drug performance and potential correlations between treatments and cell response. In addition, a machine learning model was implemented to predict drug effectiveness based on cell characteristics and treatment conditions, enhancing the project's ability to support data-driven decision-making in drug discovery.
+
+ز
 
 ----
 📖 Table of Contents
@@ -48,9 +50,9 @@ This project aims to analyze the effectiveness of various drugs on cancer cells 
 
 | Functionality                | Tools                   |
 |------------------------------|-------------------------|
-| *Data Cleaning & Processing* | Python (Pandas, NumPy)  |
-| *Database Management*        | SQL ( MySQL)            |
-| *Data Visualization*         | Tableau                 |
+| *Data Cleaning & Processing* | Python (Pandas, sqlalchemy)  |
+| *Database Management*        | SQL (  sql server)            |
+| *Data Visualization*         |  Power Bi                 |
 | *Version Control*            | Git, GitHub             |
 
 ---
@@ -71,7 +73,7 @@ This project aims to analyze the effectiveness of various drugs on cancer cells 
 
 *3. Data Visualization & Insights*
 
-- Develop dashboards in Tableau.
+- Develop dashboards in  Power Bi.
 - Use visual analytics to highlight drug effectiveness trends.
 - Implement filters for interactive exploration.
 
@@ -92,7 +94,7 @@ This project aims to analyze the effectiveness of various drugs on cancer cells 
 |-----------|---------------------------------------------------|----------|
 | *Phase 1* | Data Exploration & Cleaning                      | 1 Week   |
 | *Phase 2* | Database Setup & SQL Integration                 | 1 Week   |
-| *Phase 3* | Initial Tableau Dashboard Development            | 1 Week   |
+| *Phase 3* | Initial  Power Bi Dashboard Development            | 1 Week   |
 | *Phase 4* | Final Dashboard Implementation & Report Generation | 1 Week   |
 
 ---
@@ -101,7 +103,7 @@ This project aims to analyze the effectiveness of various drugs on cancer cells 
 
 - *Cleaned and structured dataset.*
 - *SQL database with optimized queries.*
-- *Interactive Tableau dashboard.*
+- *Interactive  Power Bi dashboard.*
 - *Final report summarizing findings and insights.*
 
 ---
@@ -110,10 +112,13 @@ This project aims to analyze the effectiveness of various drugs on cancer cells 
 
 | Name                      | Role                        | Responsibilities                                                                                       |
 |---------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------|
-| *Amira Yousef Khater*      | Team Leader & GitHub Manager | Manages GitHub repository, coordinates team activities, handles Tableau visualizations, team synchronization. |
-| *Rowyna Tarek Azzam*       | Statistical Analysis Expert |  Responsible for adding statistical analysis with Python.                                                     |
+| *Amira Yousef Khater*      | Team Leader & GitHub Manager& Power BI Developer | Led the project, managed GitHub, cleaned and transformed data in Power BI, and developed the dashboard for analytical insights. |
+| *Rowyna Tarek Azzam*       |  Machine Learning Specialist |   Develops and applies machine learning models to enhance data analysis and predictive accuracy.
+                                                     |
 | *Samia Yousef Khater*      | Data Cleaning Specialist     |  Responsible for advanced data cleaning using Python .                                                   |
-| *Youssef Mohamed Aly*      | Database Management Lead    | Responsible for SQL database management, linking data, preparing PowerPoint presentations.             |
+| *Youssef Mohamed Aly*      | Database Management Lead    |  Manages SQL database integration, ensures efficient data connectivity, and prepares professional presentation materials.
+
+            |
 
 ---
 
@@ -122,7 +127,7 @@ This project aims to analyze the effectiveness of various drugs on cancer cells 
 2. *Install Dependencies*
 3. *Load Data into SQL Database*
 4. *Run Data Cleaning Scripts in Python*
-5. *Connect SQL Database to Tableau & Build Dashboards*
+5. *Connect SQL Database to Power Bi & Build Dashboards*
 
 ---
 

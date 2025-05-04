@@ -113,12 +113,9 @@ This project aims to analyze the effectiveness of various drugs on cancer cells 
 | Name                      | Role                        | Responsibilities                                                                                       |
 |---------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------|
 | *Amira Yousef Khater*      | Team Leader & GitHub Manager& Power BI Developer | Led the project, managed GitHub, cleaned and transformed data in Power BI, and developed the dashboard for analytical insights. |
-| *Rowyna Tarek Azzam*       |  Machine Learning Specialist |   Develops and applies machine learning models to enhance data analysis and predictive accuracy.
-                                                     |
-| *Samia Yousef Khater*      | Data Cleaning Specialist     |  Responsible for advanced data cleaning using Python .                                                   |
-| *Youssef Mohamed Aly*      | Database Management Lead    |  Manages SQL database integration, ensures efficient data connectivity, and prepares professional presentation materials.
-
-            |
+| *Rowyna Tarek Azzam*       |  Machine Learning Specialist |   Develops and applies machine learning models to enhance data analysis and predictive accuracy.  |
+| *Samia Yousef Khater*      | Data Cleaning Specialist     |  Responsible for advanced data cleaning using Python . |
+| *Youssef Mohamed Aly*      | Database Management Lead    |  Manages SQL database integration, ensures efficient data connectivity, and prepares professional presentation materials. |
 
 ---
 

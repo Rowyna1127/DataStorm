@@ -4,7 +4,7 @@
 
 This project aims to analyze the effectiveness of various drugs on cancer cells using the **LINCS dataset**. By leveraging Python for data cleaning, SQL for structured storage, and  Power Bi for visualization, the project will uncover insights into drug performance and potential correlations between treatments and cell response. In addition, a machine learning model was implemented to predict drug effectiveness based on cell characteristics and treatment conditions, enhancing the project's ability to support data-driven decision-making in drug discovery.
 
-ز
+ 
 
 ----
 📖 Table of Contents
